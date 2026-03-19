@@ -1,0 +1,45 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1330e745-b3c5-48e7-9a7d-52545b58ba9d",
+      "includes": [
+        "media"
+      ],
+      "start": 30,
+      "end": 74,
+      "file": "229ab493-5af7-4cba-8581-4f23672880c2",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Analysis",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "analysis",
+  "created_at": "2026-03-19T21:48:04.338Z",
+  "created_by": "stordeurjulian",
+  "updated_at": "2026-03-19T21:48:04.338Z",
+  "updated_by": "stordeurjulian"
+}
