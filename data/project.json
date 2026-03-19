@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "stordeurjulian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269565447?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "stordeurjulian",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:29:04.328Z",
-    "updated_at": "2026-03-19T21:29:04.328Z"
-  }
+    "updated_at": "2026-03-19T21:29:04.328Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "95fd9ab5-0c42-4459-af7e-c76dd724d293": {
+      "content": [],
+      "created_at": "2026-03-19T21:29:04.333Z",
+      "created_by": "stordeurjulian",
+      "title": "Taller AvAnnotate",
+      "updated_at": "2026-03-19T21:29:04.333Z",
+      "updated_by": "stordeurjulian",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "95fd9ab5-0c42-4459-af7e-c76dd724d293"
+  ]
 }
